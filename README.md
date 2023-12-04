@@ -12,6 +12,12 @@ To build server:
 bun run build
 ```
 
+To build style:
+
+```bash
+bun run style
+```
+
 To run server:
 
 ```bash

@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "bun babel src --out-dir dist",
+    "style": "bunx tailwindcss -i ./src/style.css -o ./dist/style.css --minify",
     "start": "bun dist/index.js"
   },
   "devDependencies": {
@@ -15,6 +16,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "seniman": "^0.0.113"
+    "framer-motion": "^10.16.12",
+    "seniman": "^0.0.113",
+    "valtio": "^1.12.1"
   }
 }
