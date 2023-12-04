@@ -2,6 +2,13 @@
 
 Bun that runs Seniman
 
+Stack:
+
+- Bun
+- Seniman
+- Valtio
+- TailwindCSS
+
 ![screen](screen.png)
 
 To install dependencies:
