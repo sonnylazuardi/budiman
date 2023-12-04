@@ -1,5 +1,9 @@
 # budiman
 
+Bun that runs Seniman
+
+![screen](screen.png)
+
 To install dependencies:
 
 ```bash
