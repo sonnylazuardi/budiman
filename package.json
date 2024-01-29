@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "framer-motion": "^10.16.12",
-    "seniman": "^0.0.113",
+    "seniman": "^0.0.152",
     "valtio": "^1.12.1"
   }
 }
