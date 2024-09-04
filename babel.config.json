@@ -1,3 +1,4 @@
 {
-  "plugins": ["seniman/babel"]
+  "plugins": ["seniman/babel"],
+  "presets": ["@babel/preset-react"]
 }
